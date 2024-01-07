@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monke", "Monke\Monke.csproj", "{5FD42ED9-4C62-44DD-9E8A-44C83177251E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{17899325-0A2C-42DA-A1CB-8EF17E263981}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\animation.gif = ..\..\..\Downloads\animation.gif
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD42ED9-4C62-44DD-9E8A-44C83177251E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD42ED9-4C62-44DD-9E8A-44C83177251E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD42ED9-4C62-44DD-9E8A-44C83177251E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD42ED9-4C62-44DD-9E8A-44C83177251E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F08AD4FD-3C23-4909-93BA-D429BE25BD51}
+	EndGlobalSection
+EndGlobal
